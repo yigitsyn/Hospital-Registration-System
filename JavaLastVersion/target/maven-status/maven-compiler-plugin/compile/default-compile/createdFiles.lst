@@ -1,0 +1,9 @@
+PatientSys.class
+Patient.class
+ContactPerson.class
+CovidPatient.class
+Transferable.class
+RegularPatient.class
+MainFrame.class
+MainFrame$1.class
+EmergencyPatient.class
